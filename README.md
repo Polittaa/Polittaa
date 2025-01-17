@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Poli <3
-- 👀 I’m interested in Java, SQL, C e C++, Python, JavaScript
+- 👀 I’m interested in Java, SQL, C and C++, Python, JavaScript
 - 🌱 I’m currently learning Python, PowerBI
 - 📫 How to reach me https://www.instagram.com/polylipa?igsh=OWpoeGloMjZtOG1z&utm_source=qr
 - 😄 Pronouns: She/Her
